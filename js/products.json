@@ -1,0 +1,9 @@
+[
+  {"name": "Glow Jars", "description": "Solar-powered mason jars with warm LED lights.", "icon": "fas fa-solar-panel"},
+  {"name": "Bamboo Speaker", "description": "Eco-friendly speaker made from bamboo.", "icon": "fas fa-volume-up"},
+  {"name": "Organic Cotton Tote Bag", "description": "Reusable shopping bag made from organic cotton.", "icon": "fas fa-shopping-bag"},
+  {"name": "Soy Wax Candles", "description": "Hand-poured candles in recycled jars.", "icon": "fas fa-fire"},
+  {"name": "Recycled Paper Notebooks", "description": "Minimalistic notebooks made from recycled paper.", "icon": "fas fa-book"},
+  {"name": "Plantable Greeting Cards", "description": "Cards embedded with wildflower seeds.", "icon": "fas fa-seedling"},
+  {"name": "LED Motion Nightlight", "description": "Low-energy nightlight with motion detection.", "icon": "fas fa-lightbulb"}
+]
